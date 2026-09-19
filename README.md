@@ -150,14 +150,6 @@ Possible future improvements include:
 
 Project images are included in the `images/` folder.
 
-Suggested image set:
-
-``` text
-images/
-├── product.jpg
-├── labeled-diagram.jpg
-└── working-concept.jpg
-```
 
 ------------------------------------------------------------------------
 
@@ -165,9 +157,6 @@ images/
 
 A demonstration video of the Fogo Smart Frame concept is included with
 this project.
-
-If the video file is too large for GitHub, a link to the hosted demo can
-be added here:
 
 **Demo Video:** `Add your video link here`
 
